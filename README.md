@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Roomcar's github stats](https://github-readme-stats-seven-gilt.vercel.app/api?username=JunnYu&theme=nord&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&custom_title=Roomcar)](https://github.com/JunnYu)
+
 <!--
 **JunnYu/JunnYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
