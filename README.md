@@ -5,5 +5,7 @@
 - 🔭 I’m currently working on pytorch2paddle.
 - 🌱 I’m currently learning NLP.
 - 💬 Ask me about pytorch2paddle.
-- 📫 How to reach me: 573009727@qq.com
+- 📫 How to reach me: 
+  - Email：573009727@qq.com 
+  - Wechat：yjcatlover
 
